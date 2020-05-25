@@ -30,7 +30,6 @@ This is the best bug bounty tool collection
 - Builtwith
 - wafw00f
 ---------------------------------------------------------------------------------------------------------------------------------
-####################################
 Creadit : Ashutoshkumargautam
 -------------------------------
 Donate me : https://www.paypal.me/ashutosh7217723683
